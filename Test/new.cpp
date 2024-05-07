@@ -4,5 +4,6 @@ int main()
 {
      
      cout<<"Game started";
+     int a=1;
 
 }
